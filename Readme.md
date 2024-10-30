@@ -105,7 +105,7 @@ To manage articles (create, edit, or delete), use the following pages:
 - If there are any issues with form submissions (such as missing required fields), the application will display error messages next to each field.
 - Ensure all fields are completed before submitting forms on the `/new/` and `/edit/<int:id>` pages.
 
-## API Endpoints (Optional)
+## API Endpoints
 
 If you want to extend this project with RESTful API endpoints, consider using Django REST Framework (DRF). This would enable:
 - Programmatic access to articles via endpoints like `/api/articles/`
